@@ -13,7 +13,6 @@
 ### **Tools and Technologies Used**
 
 * **Python**: Data manipulation and analysis (Pandas, NumPy), visualization (Matplotlib, Seaborn)
-* **MySQL**: Data storage, querying, and preprocessing
 * **Jupyter Notebook**: Interactive data analysis and code documentation
 * **Power BI**: Interactive dashboards and visual reporting
 
@@ -22,12 +21,8 @@
 ### **Techniques and Concepts Applied**
 
 * Exploratory Data Analysis (EDA)
-* Root Cause Analysis
-* Log Transformation
-* Hypothesis Testing 
 * Outlier Detection and Treatment
 * Data Grouping and Aggregation
-* Categorical Feature Engineering (e.g., review categories, host types)
 * Statistical Visualization for insight communication
 
 ---
@@ -48,22 +43,13 @@
    * Analyzed trends in pricing, booking frequency, host availability, and review patterns.
    * Generated summary statistics and correlation matrices to identify important relationships.
 
-4. **Hypothesis Testing**
 
-   * Conducted statistical tests to evaluate the significance of assumptions (e.g., impact of host type or availability on revenue).
-   * Used test results to support or reject business hypotheses.
-
-5. **Root Cause Analysis**
-
-   * Investigated underlying factors contributing to the revenue decline.
-   * Segmented data by season, host type, listing category, and review scores to isolate problem areas.
-
-6. **Insight Generation and Recommendations**
+4. **Insight Generation and Recommendations**
 
    * Identified low-performing hosts, underbooked seasons, and overpricing as key drivers of revenue decline.
    * Proposed data-backed recommendations for improving pricing strategies and boosting host engagement.
 
-7. **Visualization and Reporting**
+5. **Visualization and Reporting**
 
    * Created detailed plots using Python to support insights.
    * Developed interactive dashboards in Power BI to present findings clearly to stakeholders.
